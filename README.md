@@ -1,7 +1,9 @@
 # Markdown-previewer
 ## FCC front-end libraries project
 Objective: Build an app that is functionally similar to this: [Markdown-previewer](https://markdown-previewer.freecodecamp.rocks/)
+
 Fulfill the below user stories and get all of the tests to pass. Use whichever libraries or APIs you need. Give it your own personal style.
+
 User Story #1: I can see a textarea element with a corresponding id="editor".
 
 User Story #2: I can see an element with a corresponding id="preview".
